@@ -1,0 +1,2 @@
+# GoKurac
+kurac.go
